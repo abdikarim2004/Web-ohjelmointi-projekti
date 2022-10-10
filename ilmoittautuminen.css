@@ -1,0 +1,311 @@
+.navigation-links1-nav {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.navigation-links1-navlink {
+  text-decoration: none;
+}
+.navigation-links1-navlink1 {
+  margin-left: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+.navigation-links1-root-class-name15 {
+  top: 34px;
+  left: 635px;
+  position: absolute;
+}
+@media(max-width: 767px) {
+  .navigation-links1-nav {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .navigation-links1-navlink {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navigation-links1-navlink1 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+}
+
+.ilmoittautuminen-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.ilmoittautuminen-header {
+  width: 100%;
+  display: flex;
+  position: relative;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+}
+.ilmoittautuminen-icon {
+  width: 24px;
+  height: 24px;
+}
+.ilmoittautuminen-text {
+  top: 24px;
+  left: 75px;
+  position: absolute;
+}
+.ilmoittautuminen-icon-group {
+  top: 45px;
+  right: 60px;
+  position: absolute;
+}
+.ilmoittautuminen-icon02 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.ilmoittautuminen-icon04 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.ilmoittautuminen-icon06 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+.ilmoittautuminen-burger-menu {
+  display: none;
+}
+.ilmoittautuminen-icon08 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  display: none;
+}
+.ilmoittautuminen-mobile-menu {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  display: none;
+  padding: 32px;
+  z-index: 100;
+  position: absolute;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #fff;
+}
+.ilmoittautuminen-nav {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.ilmoittautuminen-container1 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-threeunits);
+  justify-content: space-between;
+}
+.ilmoittautuminen-image {
+  height: 2rem;
+}
+.ilmoittautuminen-close-mobile-menu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ilmoittautuminen-icon10 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+.ilmoittautuminen-icon12 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.ilmoittautuminen-icon14 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.ilmoittautuminen-icon16 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+.ilmoittautuminen-container2 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ilmoittautuminen-form {
+  width: 1061px;
+  height: 421px;
+  position: relative;
+  margin-top: var(--dl-space-space-twounits);
+  margin-bottom: var(--dl-space-space-sixunits);
+  padding-right: var(--dl-space-space-oneandhalfunits);
+}
+.ilmoittautuminen-textinput {
+  top: -2px;
+  left: 60px;
+  width: 457px;
+  height: 69px;
+  position: absolute;
+}
+.ilmoittautuminen-textinput1 {
+  top: -2px;
+  right: 55px;
+  width: 457px;
+  height: 69px;
+  position: absolute;
+  padding-bottom: 0px;
+}
+.ilmoittautuminen-textinput2 {
+  top: 105px;
+  left: 59px;
+  width: 457px;
+  height: 69px;
+  position: absolute;
+}
+.ilmoittautuminen-textinput3 {
+  top: 104px;
+  right: 58px;
+  width: 457px;
+  height: 69px;
+  position: absolute;
+}
+.ilmoittautuminen-button {
+  left: 134px;
+  color: var(--dl-color-gray-white);
+  width: 313px;
+  bottom: 32px;
+  height: 62px;
+  position: absolute;
+  font-size: 35px;
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+  letter-spacing: 1px;
+  background-color: var(--dl-color-gray-black);
+}
+.ilmoittautuminen-select {
+  top: 202px;
+  left: 60px;
+  width: 457px;
+  height: 69px;
+  position: absolute;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius4);
+}
+.ilmoittautuminen-textarea {
+  top: 205px;
+  left: 548px;
+  width: 459px;
+  height: 180px;
+  position: absolute;
+}
+.ilmoittautuminen-container3 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: flex-start;
+  border-color: rgba(120, 120, 120, 0.4);
+  border-style: hidden;
+  border-width: 2px;
+}
+.ilmoittautuminen-footer {
+  width: 100%;
+  height: 42px;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  padding-top: var(--dl-space-space-sixunits);
+  padding-left: var(--dl-space-space-fourunits);
+  padding-right: var(--dl-space-space-fourunits);
+  padding-bottom: var(--dl-space-space-fourunits);
+  justify-content: space-between;
+}
+.ilmoittautuminen-icon-group2 {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.ilmoittautuminen-icon18 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.ilmoittautuminen-icon20 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.ilmoittautuminen-icon22 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+@media(max-width: 991px) {
+  .ilmoittautuminen-icon08 {
+    display: flex;
+  }
+}
+@media(max-width: 767px) {
+  .ilmoittautuminen-header {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .ilmoittautuminen-burger-menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .ilmoittautuminen-footer {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .ilmoittautuminen-text3 {
+    text-align: center;
+    margin-left: var(--dl-space-space-unit);
+    margin-right: var(--dl-space-space-unit);
+  }
+}
+@media(max-width: 479px) {
+  .ilmoittautuminen-header {
+    padding: var(--dl-space-space-unit);
+  }
+  .ilmoittautuminen-icon-group {
+    display: none;
+  }
+  .ilmoittautuminen-mobile-menu {
+    padding: 16px;
+  }
+  .ilmoittautuminen-footer {
+    padding: var(--dl-space-space-unit);
+    flex-direction: column;
+  }
+  .ilmoittautuminen-text3 {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+}
